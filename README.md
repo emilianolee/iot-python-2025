@@ -142,8 +142,7 @@ IoT 개발자 기초 프로그래밍 언어 리포지토리
             - 예외처리: 입력시 바로 엔터, 입력시 4개의 아이템을 입력하지 않으면
             - 화면편집: 검색이나 출력시 데이터 수 표시
 
-            
-
+https://github.com/user-attachments/assets/5c186b43-fe92-489e-a79d-e3f75df6ffb1
 
         - 챗GPT 윈도우맵(tkinter) 만들기
 
