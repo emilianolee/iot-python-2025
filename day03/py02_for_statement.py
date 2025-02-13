@@ -37,7 +37,7 @@
 # 요구사항2 - x * y 값이 항상 두줄씩 표현되도록
 # 단 시작을 표시
 for x in range(2, 9 + 1):
-    if x == 5: break
+    # if x == 5: break
     # if x == 5: continue
     print(f'{x}단 시작')
     for y in range(1, 9 + 1):
